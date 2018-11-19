@@ -1,0 +1,52 @@
+.container-fluid{
+  margin-top:5%;
+}
+
+td, th {
+  font-size:1.5em;
+}
+
+/* JUMBOTRON */
+
+.Jumbotron {
+  margin-top:10%;
+  text-align:center;
+}
+
+.lead .btn.btn-secondary a{
+  color:white;
+  text-decoration: none;
+}
+
+/*  SHOW */
+.single_content {
+  margin-top:10%;
+  text-align:center;
+  background-color:#E9ECEF;
+  border:1px solid grey;
+  border-radius:15px;
+  padding:2%;
+}
+
+.single_title {
+  font-family: 'Poiret One', cursive;
+  font-size:3em;
+}
+
+.description {
+  text-align:justify !important;
+  margin-top:2%;
+  margin-bottom:2%;
+  font-size:1.3em;
+}
+
+.price {
+  font-size:2em;
+  color:green;
+}
+
+/* ADD */
+
+.add_content {
+  margin-top:10%;
+}
